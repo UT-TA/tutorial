@@ -2,3 +2,4 @@
 add 変更をインデックスに登録する
 add notepcで変更・Commit for commandline 
 add Modify from notepc at the command line 
+check Conflict Status from tutorial3
